@@ -1,3 +1,4 @@
 # fff-world
 
-fff-world wird momentan als Github workshop und test-repo verwendet.
+fff-world wird momentan als GitHub workshop und test-repo verwendet. 
+e-mail: moexe@freifunk-franken-hassfurt.de
